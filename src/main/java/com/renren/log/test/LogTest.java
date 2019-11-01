@@ -8,7 +8,6 @@ public class LogTest {
 
     public static void main(String[] args) {
 
-
         logger.error("错误");
 
 
